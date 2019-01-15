@@ -8,7 +8,7 @@ This repository is the scripts we used for classifying English vowels as to whet
 
 The data used for this work are private collected by [Styler (2015)](http://wstyler.ucsd.edu/files/styler_dissertation_final.pdf).
 
-Only 10 vowels singled out of the word for the train, dev, and test sets respectively are provided here as examples. 
+Only several vowels singled out of the word for the train, dev, and test sets respectively are provided here as examples. 
 
 ## Scripts
 
