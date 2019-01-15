@@ -2,11 +2,11 @@
 
 This repository is the scripts we used for classifying English vowels as to whether they are nasalized or not in 
 
-[Liu, L.; Hulden, M.; Scarborough, R. (2019). "RNN Classification of English Vowels: Nasalized or Not", *Proceedings of the Society for Computation in Linguistics*: Vol. 2, Article 36] (https://scholarworks.umass.edu/scil/vol2/iss1/36/)
+[Liu, L.; Hulden, M.; Scarborough, R. (2019). "RNN Classification of English Vowels: Nasalized or Not", *Proceedings of the Society for Computation in Linguistics*: Vol. 2, Article 36](https://scholarworks.umass.edu/scil/vol2/iss1/36/)
 
 ## Datasets
 
-The data used for this work are private collected by [Styler (2015)] (http://wstyler.ucsd.edu/files/styler_dissertation_final.pdf).
+The data used for this work are private collected by [Styler (2015)](http://wstyler.ucsd.edu/files/styler_dissertation_final.pdf).
 
 Only 10 vowels singled out of the word for the train, dev, and test sets respectively are provided here as examples. 
 
